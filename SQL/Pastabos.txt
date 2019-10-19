@@ -1,0 +1,1 @@
+SQL reiks perdaryti normaliai. Reikia papildomu kontroliu ir klaidu tikrinimo. Dabar padaryta tam kad butu
