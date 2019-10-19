@@ -1,1 +1,3 @@
-SQL reiks perdaryti normaliai. Reikia papildomu kontroliu ir klaidu tikrinimo. Dabar padaryta tam kad butu
+SQL reiks perdaryti normaliai. Reikia papildomu kontroliu ir klaidu tikrinimo. Dabar padaryta tam kad butu.
+
+uspu_operations reiks isskaidyti i dvi. Viena del update, kita del insert.
